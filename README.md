@@ -1,24 +1,29 @@
-# Wavesix AI Engineering Training
+# 🌊 Wavesix AI Engineering
 
-This repository documents my journey through the AI Engineering curriculum, focusing on building practical skills with Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agent Systems, and LLMOps.
+Welcome to my AI Engineering journey! This repository tracks my progress through the Wavesix AI Engineering Curriculum, a hands-on program focused on building real-world skills with cutting-edge GenAI technologies — including LLMs, Retrieval-Augmented Generation (RAG), autonomous agents, and LLMOps.
 
-## 📊 Curriculum Overview
 
-### Sprint 1: LLM Foundations → Retrieval-Augmented Generation (Weeks 1-3)
-- Week 1: GenAI Jumpstart – LLMs in Action
-- Week 2: LLM App Basics – Prompt to API
-- Week 3: Retrieval-Augmented Generation (RAG)
+## 🧭 Curriculum Roadmap
+ Each sprint builds toward the goal of engineering robust, intelligent systems powered by Large Language Models.
 
-### Sprint 2: From Tool Use to Agentic Systems (Weeks 4-5)
-- Week 4: LLM Agents & Tool Use
-- Week 5: Multi-Agent Architectures & Memory
+### 🚀 Sprint 1: LLM Foundations → Retrieval-Augmented Generation (Weeks 1–3)
 
-### Sprint 3: Production-Ready GenAI – LLMOps, Guardrails, & CI/CD (Weeks 6-7)
-- Week 6: LLMOps – Monitoring & Guardrails
-- Week 7: Deployment & CI/CD
+- Week 1: GenAI Jumpstart – LLMs in Action, Prompt Engineering basics
+- Week 2: LLM App Basics – Prompt to APIs, Embeddings, and Vector Search
+- Week 3: Retrieval-Augmented Generation: RAG Pipelines, Document Chunking
 
-### Sprint 4: Capstone – End-to-End GenAI System (Week 8)
-- Building a real-world-ready, multi-agent GenAI system
+### 🤖 Sprint 2: Agents & Tool Use (Weeks 4–5)
+
+- Week 4 – LLM Agents & Tool Use: LangChain, AutoGen, Tool Integration
+- Week 5 – Multi-Agent Systems: Memory, Collaboration, and Coordination
+
+### 🛡️ Sprint 3: LLMOps & Production Systems (Weeks 6–7)
+- Week 6 – Observability & Guardrails: Langfuse, Helicone, Prompt Evaluation
+- Week 7 – Deployment & CI/CD: Dockerization, GitHub Actions, Cloud Hosting
+
+
+### 🌐 Sprint 4: Capstone – End-to-End GenAI System (Week 8)
+- Final Project: A full-stack, production-ready, multi-agent GenAI system
 
 ## 📁 Repository Structure
 
@@ -46,14 +51,27 @@ This repository documents my journey through the AI Engineering curriculum, focu
 └── .env.template             # Template for environment variables
 ```
 
-## 📝 Progress Tracking
-
-My weekly progress and key learnings are documented within each sprint's README.md file.
-
 ## 🛠️ Key Technologies
 
-- LLM providers: OpenAI, Anthropic Claude, etc.
-- Vector databases: Pinecone, pgvector
+- LLMs: OpenAI GPT, Claude, Mistral, Hugging Face
+- Vector databases: Pinecone, pgvector, Weaviate
 - Agent frameworks: LangChain, AutoGen, CrewAI
-- Observability: Langfuse, Helicone
-- Deployment: Docker, GitHub Actions
+- LLMOps & Observability: Langfuse, Helicone, Guardrails
+- Deployment: Docker, GitHub Actions, Render, Vercel
+
+## 📈 Weekly Progress
+
+Each sprint folder contains a README.md with:
+
+- ✅ Goals & Deliverables
+
+- 💡 Key Learnings
+
+- 🧪 Experiments & Outputs
+
+- 🔗 Links to code, notebooks, and APIs 
+
+
+## 🧠 About the Project
+ This curriculum is more than theory — it's a practical, project-based deep dive into modern AI systems. By the end of the 8 weeks, I aim to have built and deployed an end-to-end, agent-powered GenAI application ready for real-world use.
+
