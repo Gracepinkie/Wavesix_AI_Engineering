@@ -1,9 +1,22 @@
-# Week 1: GenAI Jumpstart – LLMs in Action
+# 🧠 Week 1: GenAI Jumpstart – LLMs in Action
 
-Checklist
-[x] - Get to know **LLMs and Transformers**
-[x] - Set up your dev repo: `.env`, keys, token tracking
-[x] - Learn **prompt engineering** basics: role, format, temperature
-[x] - Compare LLM providers and playgrounds le: ChatGPT, Claude, Hugging Face, etc.
-[x] - Use LLMs **daily** for debugging, summaries, and exploration
-[] - Begin logging **prompts and token behavior** to understand model output[] 
+Welcome to Week 1 of the AI Engineer Curriculum! This week is all about gaining hands-on experience with Large Language Models (LLMs). exploring how they work, how to use them effectively, and begin building useful tools powered by GenAI.
+
+---
+
+## 📌 Goals
+
+- Understand what LLMs and transformers are
+- Set up your local development environment
+- Learn and experiment with prompt engineering
+- Use LLMs daily for tasks like debugging, summarizing, and brainstorming
+- Start tracking prompts and token usage
+
+---
+
+## ✅ Checklist
+
+- [x] Installed Python and required SDKs (OpenAI, Anthropic, etc.)
+- [x] Created `.env` file with API keys
+- [x] Initialized prompt log
+- [x] Explored different playgrounds: ChatGPT, Claude, Hugging Face, Gemini

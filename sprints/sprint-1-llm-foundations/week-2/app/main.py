@@ -8,7 +8,6 @@ from openai import OpenAI
 load_dotenv()
 
 app = FastAPI()
-
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 class QuestionRequest(BaseModel):
