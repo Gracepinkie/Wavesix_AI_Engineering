@@ -11,6 +11,7 @@ This week focuses on implementing a complete Retrieval-Augmented Generation (RAG
 - ✅ Use a response **synthesizer** to generate grounded, citation-style answers
 - ✅ Compare RAG results vs. prompt-only queries
 - ✅ Understand how chunking impacts retrieval quality
+- ✅ a REport on week3
 
 ---
 
